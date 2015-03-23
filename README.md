@@ -7,3 +7,4 @@ Requirements:
 
 * RequireJS
 * jQuery
+* MarkedJS
