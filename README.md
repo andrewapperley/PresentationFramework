@@ -1,5 +1,5 @@
 # Simple-Presentation
-Simple, Barebones Web Based Presentation Framework
+Simple, Barebones Web Based Presentation Library
 
 **Work in progress**
 
