@@ -1,0 +1,27 @@
+{
+  "slides": [
+    {
+      "title": "Slide 1",
+      "animation": {
+        "type": "slide",
+        "direction": "left"
+      },
+      "slide": "slide1.md"
+    },
+    {
+      "title": "Slide 2",
+      "animation": {
+        "type": "fade"
+      },
+      "slide": "slide2.md"
+    },
+    {
+      "title": "Slide 3",
+      "animation": {
+        "type": "slide",
+        "direction": "right"
+      },
+      "slide": "slide3.md"
+    }
+  ]
+}
